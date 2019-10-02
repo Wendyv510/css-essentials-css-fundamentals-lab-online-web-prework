@@ -35,5 +35,5 @@ p#featured-property {
   margin-right: auto;
   background:red;
   text-align:center;
-  te
+  text-transform: horizontal;
 }
