@@ -8,10 +8,7 @@ h1 {
   text-align:center;
 }
 
-img."featured_property" {
-  display:block;
-  margin-left:auto;
-  margin-right:auto;
-  width:50%;
+img {
+  vertical-align: middle;
 }
 
