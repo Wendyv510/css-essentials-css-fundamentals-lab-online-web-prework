@@ -34,4 +34,5 @@ p#featured-property {
   margin-left: auto;
   margin-right: auto;
   background:red;
+  text-align:center;
 }
